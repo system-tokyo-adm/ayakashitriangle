@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/keita/development/quiz_spreadsheet/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "/Users/keita/.gradle/caches/transforms-3/1690dbbd2c1d8f9af4b640a9296762bf/transformed/jetified-play-services-base-18.0.0/res/values-b+sr+Latn/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "200,303,457,580,686,836,959,1067,1165,1310,1413,1569,1692,1837,1976,2040,2101",
+                        "endColumns": "102,153,122,105,149,122,107,97,144,102,155,122,144,138,63,60,75",
+                        "endOffsets": "302,456,579,685,835,958,1066,1164,1309,1412,1568,1691,1836,1975,2039,2100,2176"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,162,320,447,557,711,838,950,1182,1331,1438,1598,1725,1874,2017,2085,2150",
+                        "endColumns": "106,157,126,109,153,126,111,101,148,106,159,126,148,142,67,64,79",
+                        "endOffsets": "157,315,442,552,706,833,945,1047,1326,1433,1593,1720,1869,2012,2080,2145,2225"
+                    }
+                },
+                {
+                    "source": "/Users/keita/.gradle/caches/transforms-3/5e4e0dce7a047ba3f90d5da7c84f2014/transformed/jetified-media2-session-1.2.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,162,262,357,484",
+                        "endColumns": "106,99,94,126,132",
+                        "endOffsets": "157,257,352,479,612"
+                    },
+                    "to": {
+                        "startLines": "21,41,42,50,51",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "2341,4062,4162,4672,4799",
+                        "endColumns": "106,99,94,126,132",
+                        "endOffsets": "2443,4157,4252,4794,4927"
+                    }
+                },
+                {
+                    "source": "/Users/keita/.gradle/caches/transforms-3/08699870276c76d2051a31ac6187ea14/transformed/browser-1.4.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,266,379",
+                        "endColumns": "110,99,112,97",
+                        "endOffsets": "161,261,374,472"
+                    },
+                    "to": {
+                        "startLines": "20,31,32,33",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2230,3120,3220,3333",
+                        "endColumns": "110,99,112,97",
+                        "endOffsets": "2336,3215,3328,3426"
+                    }
+                },
+                {
+                    "source": "/Users/keita/.gradle/caches/transforms-3/97d87e0cc8d6996d1cf816dcd3c6ae52/transformed/jetified-play-services-ads-21.2.0/res/values-b+sr+Latn/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "206,290,397,452,561,618,723,809,850,940,976,1009,1068,1156",
+                        "endColumns": "83,106,54,108,56,104,85,40,89,35,32,58,87,39",
+                        "endOffsets": "289,396,451,560,617,722,808,849,939,975,1008,1067,1155,1195"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,43,44,45,46,47,48,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3431,3519,3630,3689,3802,3863,3972,4257,4302,4396,4436,4473,4536,4628",
+                        "endColumns": "87,110,58,112,60,108,89,44,93,39,36,62,91,43",
+                        "endOffsets": "3514,3625,3684,3797,3858,3967,4057,4297,4391,4431,4468,4531,4623,4667"
+                    }
+                },
+                {
+                    "source": "/Users/keita/.gradle/caches/transforms-3/cfc7fcd3a9f5122832ffbe5f66372935/transformed/jetified-exoplayer-core-2.18.1/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,191,256,328,407,480,568,652",
+                        "endColumns": "74,60,64,71,78,72,87,83,74",
+                        "endOffsets": "125,186,251,323,402,475,563,647,722"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2448,2523,2584,2649,2721,2800,2873,2961,3045",
+                        "endColumns": "74,60,64,71,78,72,87,83,74",
+                        "endOffsets": "2518,2579,2644,2716,2795,2868,2956,3040,3115"
+                    }
+                },
+                {
+                    "source": "/Users/keita/.gradle/caches/transforms-3/97be7a24b79a26e7661568cfcb437980/transformed/jetified-play-services-basement-18.0.0/res/values-b+sr+Latn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "125",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1052",
+                        "endColumns": "129",
+                        "endOffsets": "1177"
+                    }
+                },
+                {
+                    "source": "/Users/keita/.gradle/caches/transforms-3/a4e8b8f2e9411626ade64cd9f1c7b550/transformed/core-1.7.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "4932",
+                        "endColumns": "100",
+                        "endOffsets": "5028"
+                    }
+                }
+            ]
+        }
+    ]
+}
