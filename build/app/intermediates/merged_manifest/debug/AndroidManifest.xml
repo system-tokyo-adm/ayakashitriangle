@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.quiz_spreadsheet"
+    package="com.gmail.seriousapp777_kubosan"
     android:versionCode="2"
     android:versionName="1.0.1" >
 
@@ -87,7 +87,7 @@
         <!-- テスト用アプリID -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-8929796513816949~2038359108" />
         <meta-data
             android:name="io.flutter.embedded_views_preview"
             android:value="true" />
@@ -106,7 +106,7 @@
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.example.quiz_spreadsheet.lifecycle-process"
+            android:authorities="com.gmail.seriousapp777_kubosan.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
@@ -117,7 +117,7 @@
 
         <provider
             android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.example.quiz_spreadsheet.mobileadsinitprovider"
+            android:authorities="com.gmail.seriousapp777_kubosan.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -137,7 +137,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.quiz_spreadsheet.androidx-startup"
+            android:authorities="com.gmail.seriousapp777_kubosan.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.work.WorkManagerInitializer"

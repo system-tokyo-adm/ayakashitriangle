@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/keita/development/quiz_spreadsheet/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/keita/development/quiz_kubosan/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/keita/.gradle/caches/transforms-3/97be7a24b79a26e7661568cfcb437980/transformed/jetified-play-services-basement-18.0.0/res/values/values.xml",
@@ -56,6 +56,25 @@
                         "endLines": "207,228",
                         "endColumns": "8,20",
                         "endOffsets": "14821,15755"
+                    }
+                },
+                {
+                    "source": "/Users/keita/development/quiz_kubosan/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "176,181",
+                        "startColumns": "4,4",
+                        "startOffsets": "12811,13119",
+                        "endLines": "180,183",
+                        "endColumns": "12,12",
+                        "endOffsets": "13114,13283"
                     }
                 },
                 {
@@ -232,25 +251,6 @@
                         "startOffsets": "7230",
                         "endColumns": "82",
                         "endOffsets": "7308"
-                    }
-                },
-                {
-                    "source": "/Users/keita/development/quiz_spreadsheet/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "176,181",
-                        "startColumns": "4,4",
-                        "startOffsets": "12811,13119",
-                        "endLines": "180,183",
-                        "endColumns": "12,12",
-                        "endOffsets": "13114,13283"
                     }
                 }
             ]

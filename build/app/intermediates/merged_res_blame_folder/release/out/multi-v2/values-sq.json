@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/keita/development/quiz_spreadsheet/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml",
+            "outputFile": "/Users/keita/development/quiz_kubosan/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-sq/values-sq.xml",
             "map": [
                 {
                     "source": "/Users/keita/.gradle/caches/transforms-3/a4e8b8f2e9411626ade64cd9f1c7b550/transformed/core-1.7.0/res/values-sq/values-sq.xml",

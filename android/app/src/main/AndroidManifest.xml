@@ -34,6 +34,6 @@
         <!-- テスト用アプリID -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-8929796513816949~1510131097" />
+            android:value="ca-app-pub-8929796513816949~2038359108" />
     </application>
 </manifest>

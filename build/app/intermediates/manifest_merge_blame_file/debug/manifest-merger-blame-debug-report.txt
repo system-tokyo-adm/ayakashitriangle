@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.quiz_spreadsheet"
+3    package="com.gmail.seriousapp777_kubosan"
 4    android:versionCode="2"
 5    android:versionName="1.0.1" >
 6
@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:4:5-67
-15-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:4:22-64
+15-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:4:5-67
+15-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:4:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/keita/.gradle/caches/transforms-3/cfc7fcd3a9f5122832ffbe5f66372935/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
 16-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/keita/.gradle/caches/transforms-3/cfc7fcd3a9f5122832ffbe5f66372935/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
@@ -120,22 +120,22 @@
 87        <!-- テスト用アプリID -->
 88        <meta-data
 89            android:name="com.google.android.gms.ads.APPLICATION_ID"
-90            android:value="ca-app-pub-3940256099942544~3347511713" />
+90            android:value="ca-app-pub-8929796513816949~2038359108" />
 91        <meta-data
-91-->[:google_mobile_ads] /Users/keita/development/quiz_spreadsheet/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
+91-->[:google_mobile_ads] /Users/keita/development/quiz_kubosan/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
 92            android:name="io.flutter.embedded_views_preview"
-92-->[:google_mobile_ads] /Users/keita/development/quiz_spreadsheet/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
+92-->[:google_mobile_ads] /Users/keita/development/quiz_kubosan/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
 93            android:value="true" />
-93-->[:google_mobile_ads] /Users/keita/development/quiz_spreadsheet/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
+93-->[:google_mobile_ads] /Users/keita/development/quiz_kubosan/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
 94
 95        <activity
-95-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+95-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
 96            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-96-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+96-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
 97            android:exported="false"
-97-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+97-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
 98            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-98-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+98-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
 99
 100        <uses-library
 100-->[androidx.window:window:1.0.0-beta04] /Users/keita/.gradle/caches/transforms-3/76b2659bdbc11680e0aeea70531fc3b3/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
@@ -154,7 +154,7 @@
 107-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 108            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
 108-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
-109            android:authorities="com.example.quiz_spreadsheet.lifecycle-process"
+109            android:authorities="com.gmail.seriousapp777_kubosan.lifecycle-process"
 109-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
 110            android:exported="false"
 110-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
@@ -175,7 +175,7 @@
 118-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:55:9-59:39
 119            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
 119-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:56:13-76
-120            android:authorities="com.example.quiz_spreadsheet.mobileadsinitprovider"
+120            android:authorities="com.gmail.seriousapp777_kubosan.mobileadsinitprovider"
 120-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:57:13-73
 121            android:exported="false"
 121-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:58:13-37
@@ -211,7 +211,7 @@
 138-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
 139            android:name="androidx.startup.InitializationProvider"
 139-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
-140            android:authorities="com.example.quiz_spreadsheet.androidx-startup"
+140            android:authorities="com.gmail.seriousapp777_kubosan.androidx-startup"
 140-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
 141            android:exported="false" >
 141-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37

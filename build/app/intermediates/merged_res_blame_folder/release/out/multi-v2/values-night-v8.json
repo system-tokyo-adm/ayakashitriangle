@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/keita/development/quiz_spreadsheet/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/keita/development/quiz_kubosan/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/keita/development/quiz_spreadsheet/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/keita/development/quiz_kubosan/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

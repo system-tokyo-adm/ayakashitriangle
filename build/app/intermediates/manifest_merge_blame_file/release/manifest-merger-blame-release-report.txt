@@ -1,18 +1,18 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.gmail.seriousapp777_ayakashitriangle"
+3    package="com.gmail.seriousapp777_kubosan"
 4    android:versionCode="2"
 5    android:versionName="1.0.1" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml
+8-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml
+9-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:4:5-67
-11-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:4:22-64
+11-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:4:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 12-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/keita/.gradle/caches/transforms-3/cfc7fcd3a9f5122832ffbe5f66372935/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
 12-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/keita/.gradle/caches/transforms-3/cfc7fcd3a9f5122832ffbe5f66372935/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
@@ -78,29 +78,29 @@
 44
 45    <application
 46        android:name="android.app.Application"
-46-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:6:9-42
+46-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:6:9-42
 47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 47-->[androidx.core:core:1.7.0] /Users/keita/.gradle/caches/transforms-3/a4e8b8f2e9411626ade64cd9f1c7b550/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 48        android:icon="@mipmap/ic_launcher"
-48-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:7:9-43
+48-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:7:9-43
 49        android:label="〜クイズ診断アプリ" >
-49-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:8:9-34
+49-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:8:9-34
 50        <activity
-50-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:9:9-28:20
+50-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:9:9-28:20
 51            android:name="com.example.quiz_spreadsheet.MainActivity"
-51-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:10:13-41
+51-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:10:13-41
 52            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-52-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:11:13-163
+52-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:11:13-163
 53            android:exported="true"
-53-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:12:13-36
+53-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:12:13-36
 54            android:hardwareAccelerated="true"
-54-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:13:13-47
+54-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:13:13-47
 55            android:launchMode="singleTop"
-55-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:14:13-43
+55-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:14:13-43
 56            android:theme="@style/LaunchTheme"
-56-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:15:13-47
+56-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:15:13-47
 57            android:windowSoftInputMode="adjustResize" >
-57-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:16:13-55
+57-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:16:13-55
 58
 59            <!--
 60                 Specifies an Android theme to apply to this Activity as soon as
@@ -109,21 +109,21 @@
 63                 to determine the Window background behind the Flutter UI.
 64            -->
 65            <meta-data
-65-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:21:13-23:57
+65-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:21:13-23:57
 66                android:name="io.flutter.embedding.android.NormalTheme"
-66-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:22:17-72
+66-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:22:17-72
 67                android:resource="@style/NormalTheme" />
-67-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:23:17-54
+67-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:23:17-54
 68
 69            <intent-filter>
-69-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:24:13-27:29
+69-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:24:13-27:29
 70                <action android:name="android.intent.action.MAIN" />
-70-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:25:17-69
-70-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:25:25-66
+70-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:25:17-69
+70-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:25:25-66
 71
 72                <category android:name="android.intent.category.LAUNCHER" />
-72-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:26:17-77
-72-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:26:27-74
+72-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:26:17-77
+72-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:26:27-74
 73            </intent-filter>
 74        </activity>
 75        <!--
@@ -131,33 +131,33 @@
 77             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 78        -->
 79        <meta-data
-79-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:31:9-33:33
+79-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:31:9-33:33
 80            android:name="flutterEmbedding"
-80-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:32:13-44
+80-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:32:13-44
 81            android:value="2" />
-81-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:33:13-30
+81-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:33:13-30
 82        <!-- テスト用アプリID -->
 83        <meta-data
-83-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:35:9-37:70
+83-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:35:9-37:70
 84            android:name="com.google.android.gms.ads.APPLICATION_ID"
-84-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:36:13-69
-85            android:value="ca-app-pub-8929796513816949~1510131097" />
-85-->/Users/keita/development/quiz_spreadsheet/android/app/src/main/AndroidManifest.xml:37:13-67
+84-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:36:13-69
+85            android:value="ca-app-pub-8929796513816949~2038359108" />
+85-->/Users/keita/development/quiz_kubosan/android/app/src/main/AndroidManifest.xml:37:13-67
 86        <meta-data
-86-->[:google_mobile_ads] /Users/keita/development/quiz_spreadsheet/build/google_mobile_ads/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-14:36
+86-->[:google_mobile_ads] /Users/keita/development/quiz_kubosan/build/google_mobile_ads/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-14:36
 87            android:name="io.flutter.embedded_views_preview"
-87-->[:google_mobile_ads] /Users/keita/development/quiz_spreadsheet/build/google_mobile_ads/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-61
+87-->[:google_mobile_ads] /Users/keita/development/quiz_kubosan/build/google_mobile_ads/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-61
 88            android:value="true" />
-88-->[:google_mobile_ads] /Users/keita/development/quiz_spreadsheet/build/google_mobile_ads/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-33
+88-->[:google_mobile_ads] /Users/keita/development/quiz_kubosan/build/google_mobile_ads/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-33
 89
 90        <activity
-90-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-13:74
+90-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-13:74
 91            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-91-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-74
+91-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-74
 92            android:exported="false"
-92-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-37
+92-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-37
 93            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-93-->[:url_launcher_android] /Users/keita/development/quiz_spreadsheet/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-71
+93-->[:url_launcher_android] /Users/keita/development/quiz_kubosan/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-71
 94
 95        <uses-library
 95-->[androidx.window:window:1.0.0-beta04] /Users/keita/.gradle/caches/transforms-3/76b2659bdbc11680e0aeea70531fc3b3/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
@@ -176,7 +176,7 @@
 102-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 103            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
 103-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
-104            android:authorities="com.gmail.seriousapp777_ayakashitriangle.lifecycle-process"
+104            android:authorities="com.gmail.seriousapp777_kubosan.lifecycle-process"
 104-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
 105            android:exported="false"
 105-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/keita/.gradle/caches/transforms-3/e99e9b042b8b8f61dc53ed14c3396e6c/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
@@ -197,7 +197,7 @@
 113-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:55:9-59:39
 114            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
 114-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:56:13-76
-115            android:authorities="com.gmail.seriousapp777_ayakashitriangle.mobileadsinitprovider"
+115            android:authorities="com.gmail.seriousapp777_kubosan.mobileadsinitprovider"
 115-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:57:13-73
 116            android:exported="false"
 116-->[com.google.android.gms:play-services-ads-lite:21.2.0] /Users/keita/.gradle/caches/transforms-3/d99ddb73843d907bf17c7771a59b58d1/transformed/jetified-play-services-ads-lite-21.2.0/AndroidManifest.xml:58:13-37
@@ -233,7 +233,7 @@
 133-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
 134            android:name="androidx.startup.InitializationProvider"
 134-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
-135            android:authorities="com.gmail.seriousapp777_ayakashitriangle.androidx-startup"
+135            android:authorities="com.gmail.seriousapp777_kubosan.androidx-startup"
 135-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
 136            android:exported="false" >
 136-->[androidx.work:work-runtime:2.7.0] /Users/keita/.gradle/caches/transforms-3/0fed523c70fdf9bc5365c78c899da795/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37
